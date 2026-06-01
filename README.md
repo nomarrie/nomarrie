@@ -154,11 +154,19 @@ const currentStack = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="Nomarrie's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomarrie&theme=github_dark" alt="Nomarrie's GitHub profile summary" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" alt="Nomarrie's top languages" />
+<br><br>
 
-<br />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomarrie&theme=github_dark" alt="Nomarrie's GitHub stats" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomarrie&theme=github_dark&utcOffset=8" alt="Nomarrie's productive time" />
+
+<br><br>
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nomarrie&theme=github_dark" alt="Nomarrie's top languages by repo" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nomarrie&theme=github_dark" alt="Nomarrie's most committed languages" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=nomarrie&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00b4d8&ring=7c3aed&fire=ff6b6b&currStreakLabel=00b4d8" alt="Nomarrie's GitHub streak" />
 
