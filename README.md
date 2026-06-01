@@ -9,7 +9,9 @@
  ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
 </pre>
 
-**`student developer :: frontend explorer :: creative coder`**
+<h2 align="center">
+    student developer :: frontend explorer :: creative coder
+</h2>
 
 <br />
 
@@ -64,7 +66,7 @@ then improving them one commit at a time.
       <h3><code>[01] Frontend Craft</code></h3>
       <p>Building clear layouts, responsive interfaces, and browser-based experiences.</p>
       <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
@@ -80,14 +82,14 @@ then improving them one commit at a time.
       <p>Tracking progress with version control and keeping the workspace practical.</p>
       <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc" alt="VS Code" />
+      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=vscodium&logoColor=007acc" alt="VS Code" />
     </td>
     <td width="50%" valign="top">
       <h3><code>[04] Currently Exploring</code></h3>
       <p>Experimenting with design systems and interactive learning experiences.</p>
       <img src="https://img.shields.io/badge/Responsive_Design-0d1117?style=for-the-badge&logo=cssdesignawards&logoColor=00b4d8" alt="Responsive Design" />
       <img src="https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=059669" alt="UI UX" />
-      <img src="https://img.shields.io/badge/Web_Simulation-0d1117?style=for-the-badge&logo=atom&logoColor=7c3aed" alt="Web Simulation" />
+      <img src="https://img.shields.io/badge/Web_Simulation-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="Web Simulation" />
     </td>
   </tr>
 </table>
@@ -129,7 +131,7 @@ const currentStack = {
       <img src="https://img.shields.io/badge/status-in_progress-0d1117?style=flat-square&labelColor=0d1117&color=059669" alt="In progress" />
       <img src="https://img.shields.io/badge/type-Awareness_%26_EdTech-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8" alt="Awareness and EdTech" />
       <br /><br />
-      <code>HTML :: CSS :: JavaScript</code>
+      <code>Kodular :: Block Code</code>
     </td>
   </tr>
 </table>
