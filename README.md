@@ -1,44 +1,49 @@
 <div align="center">
 
-# `nomarrie.dev`
+<h1><code>nomarrie.dev</code></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=student+developer+from+Bali%2C+Indonesia;crafting+interfaces+with+purpose;exploring+interactive+learning+experiences)](https://git.io/typing-svg)
+<samp>student developer / interface explorer / learning in public</samp>
 
-![Location](https://img.shields.io/badge/Bali%2C_Indonesia-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)
-![Role](https://img.shields.io/badge/Student_Developer-0D1117?style=for-the-badge&logo=codewars&logoColor=7EE787)
-![Focus](https://img.shields.io/badge/Building-Eksperika-0D1117?style=for-the-badge&logo=rocket&logoColor=F2CC60)
-![Profile Views](https://komarev.com/ghpvc/?username=nomarrie&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
+<br /><br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=680&lines=%24+initializing+creative+workspace...;%24+building+web+experiences+with+purpose;%24+active_project%3A+Eksperika)](https://github.com/nomarrie)
+
+![Location](https://img.shields.io/badge/from-Bali%2C_Indonesia-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF)
+![Role](https://img.shields.io/badge/role-student_developer-0D1117?style=flat-square&logo=codewars&logoColor=7EE787)
+![Mode](https://img.shields.io/badge/mode-learning_by_building-0D1117?style=flat-square&logo=bookstack&logoColor=F2CC60)
+![Profile Views](https://komarev.com/ghpvc/?username=nomarrie&style=flat-square&color=0D1117&label=visitors)
 
 </div>
 
-```console
-$ whoami
-Nomarrie - an RPL student turning ideas into useful web experiences.
+## `$ ./about --brief`
+
+```txt
+Hi, I am Nomarrie.
+An RPL student from Bali, Indonesia, exploring how code and design
+can turn simple ideas into useful learning experiences.
 ```
 
-## `$ current_focus`
-
 ```js
-const nomarrie = {
-  role: "student developer",
-  location: "Bali, Indonesia",
-  focus: ["frontend", "UI/UX", "interactive web", "education tech"],
-  currentlyBuilding: "Eksperika",
-  motto: "build, break, learn, repeat"
+const workspace = {
+  developer: "Nomarrie",
+  currentMode: "learning by building",
+  interests: ["frontend", "UI/UX", "interactive web", "education tech"],
+  activeProject: "Eksperika",
+  nextCommit: "make it clearer, smoother, and more useful"
 };
 ```
 
-> `// building, breaking, learning`
+> `// build carefully, break curiously, learn continuously`
 
-## `$ featured_projects`
+## `$ open ./projects`
 
-| Project | Description | Status |
+| Directory | What lives here | Progress |
 | --- | --- | --- |
-| [**Eksperika**](https://github.com/nomarrie/Eksperika) | A virtual science lab for interactive learning experiments. | `in development` |
-| [**EchoAware**](https://github.com/nomarrie/EchoAware) | An educational app about echo chambers and digital literacy. | `exploring ideas` |
-| [**Web Portfolio**](https://github.com/nomarrie?tab=repositories) | A space for UI studies, frontend experiments, and creative projects. | `always evolving` |
+| [`eksperika/`](https://github.com/nomarrie/Eksperika) | A virtual science lab designed for interactive learning. | `building` |
+| [`echo-aware/`](https://github.com/nomarrie/EchoAware) | An educational app about echo chambers and digital literacy. | `researching` |
+| [`portfolio/`](https://github.com/nomarrie?tab=repositories) | UI studies, frontend experiments, and creative web projects. | `evolving` |
 
-## `$ tech_stack`
+## `$ inspect ./toolkit`
 
 <div align="center">
 
@@ -46,33 +51,28 @@ const nomarrie = {
 
 </div>
 
-## `$ learning_queue`
+## `$ tail -f ./learning.log`
 
-```text
-[01] Java OOP
-[02] Responsive web design
-[03] Git workflow
-[04] Interactive simulation
-[05] UI/UX consistency
+```diff
++ Java OOP
++ Responsive web design
++ Git workflow
++ Interactive simulation
++ UI/UX consistency
 ```
 
-## `$ github_stats`
+## `$ render ./github-metrics`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Nomarrie's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Nomarrie's top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787" alt="Nomarrie's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Nomarrie's top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=nomarrie&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Nomarrie's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=nomarrie&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=7EE787" alt="Nomarrie's GitHub streak" />
 
 </div>
 
 ---
 
-<div align="center">
-
-`"Small iterations can grow into meaningful experiences."`
-
-</div>
