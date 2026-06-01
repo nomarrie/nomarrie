@@ -10,7 +10,7 @@
 </pre>
 
 <h2 align="center">
-    student developer :: frontend explorer :: creative coder
+    <code>student developer :: frontend explorer :: creative coder</code>
 </h2>
 
 <br />
