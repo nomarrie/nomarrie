@@ -9,11 +9,12 @@
  ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
-**`student developer · frontend explorer · creative coder`**
+<samp>student developer · frontend explorer · creative coder</samp>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=680&lines=%24+initializing+creative+workspace...;%24+building+web+experiences+with+purpose;%24+active_project%3A+Eksperika)](https://github.com/nomarrie)
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Bali,_Indonesia-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+![Location](https://img.shields.io/badge/location-Bali,_Indonesia-0d1117?style=flat-square&logo=googlemaps&logoColor=00b4d8&labelColor=0d1117&color=00b4d8)
 ![Status](https://img.shields.io/badge/Status-Student_Dev-0d1117?style=flat-square&color=7c3aed)
 ![Focus](https://img.shields.io/badge/Focus-Frontend_%26_EdTech-0d1117?style=flat-square&color=059669)
 ![Profile Views](https://komarev.com/ghpvc/?username=nomarrie&style=flat-square&color=00b4d8&label=profile+views)
@@ -27,7 +28,7 @@
 ```js
 const nomarrie = {
   role:              "student developer",
-  location:          "Bali, Indonesia 🌴",
+  location:          "Bali, Indonesia",
   focus:             ["frontend", "UI/UX", "education tech"],
   currentlyBuilding: "Eksperika — Virtual Science Lab",
   motto:             "build, break, learn, repeat"
@@ -71,39 +72,39 @@ const nomarrie = {
 
 ## `$ featured_projects`
 
-### 🔬 [Eksperika](https://github.com/nomarrie)
+### `[LAB-01]` [Eksperika](https://github.com/nomarrie)
 > *Virtual Science Lab — Interactive Learning Platform*
 
 A browser-based virtual laboratory designed to make science experiments accessible and engaging for students. Built with a focus on interactivity, simulation accuracy, and clean UI.
 
 ```
-status  ──▸  🟡 active development
+status  ──▸  [ active development ]
 stack   ──▸  HTML · CSS · JavaScript
 type    ──▸  Education Technology
 ```
 
 ---
 
-### 📡 [EchoAware](https://github.com/nomarrie)
+### `[APP-02]` [EchoAware](https://github.com/nomarrie)
 > *Digital Literacy & Echo Chamber Education App*
 
 An educational web app that helps users understand how echo chambers form online and develop critical digital literacy skills through interactive modules.
 
 ```
-status  ──▸  🟢 in progress
+status  ──▸  [ in progress ]
 stack   ──▸  HTML · CSS · JavaScript
 type    ──▸  Awareness · EdTech
 ```
 
 ---
 
-### 🎨 [Web Portfolio](https://github.com/nomarrie)
+### `[UI-03]` [Web Portfolio](https://github.com/nomarrie)
 > *UI Experiment Lab & Personal Space*
 
 A personal corner for frontend experiments, design explorations, and creative coding. Where ideas get tested before they grow into real projects.
 
 ```
-status  ──▸  🔵 ongoing
+status  ──▸  [ ongoing ]
 stack   ──▸  HTML · CSS · JavaScript
 type    ──▸  UI/UX · Creative Dev
 ```
