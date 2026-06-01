@@ -1,49 +1,58 @@
 <div align="center">
 
-<h1><code>nomarrie.dev</code></h1>
+```
+ ███╗   ██╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ ██████╗ ██╗███████╗
+ ████╗  ██║██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗██║██╔════╝
+ ██╔██╗ ██║██║   ██║██╔████╔██║███████║██████╔╝██████╔╝██║█████╗  
+ ██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  
+ ██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██║███████╗
+ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-<samp>student developer / interface explorer / learning in public</samp>
+**`student developer · frontend explorer · creative coder`**
 
-<br /><br />
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=680&lines=%24+initializing+creative+workspace...;%24+building+web+experiences+with+purpose;%24+active_project%3A+Eksperika)](https://github.com/nomarrie)
-
-![Location](https://img.shields.io/badge/from-Bali%2C_Indonesia-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF)
-![Role](https://img.shields.io/badge/role-student_developer-0D1117?style=flat-square&logo=codewars&logoColor=7EE787)
-![Mode](https://img.shields.io/badge/mode-learning_by_building-0D1117?style=flat-square&logo=bookstack&logoColor=F2CC60)
-![Profile Views](https://komarev.com/ghpvc/?username=nomarrie&style=flat-square&color=0D1117&label=visitors)
+![Location](https://img.shields.io/badge/📍_Bali,_Indonesia-0d1117?style=flat-square&labelColor=0d1117&color=00b4d8)
+![Status](https://img.shields.io/badge/Status-Student_Dev-0d1117?style=flat-square&color=7c3aed)
+![Focus](https://img.shields.io/badge/Focus-Frontend_%26_EdTech-0d1117?style=flat-square&color=059669)
+![Profile Views](https://komarev.com/ghpvc/?username=nomarrie&style=flat-square&color=00b4d8&label=profile+views)
 
 </div>
 
-## `$ ./about --brief`
+---
 
-```txt
-Hi, I am Nomarrie.
-An RPL student from Bali, Indonesia, exploring how code and design
-can turn simple ideas into useful learning experiences.
-```
+## `$ whoami`
 
 ```js
-const workspace = {
-  developer: "Nomarrie",
-  currentMode: "learning by building",
-  interests: ["frontend", "UI/UX", "interactive web", "education tech"],
-  activeProject: "Eksperika",
-  nextCommit: "make it clearer, smoother, and more useful"
+const nomarrie = {
+  role:              "student developer",
+  location:          "Bali, Indonesia 🌴",
+  focus:             ["frontend", "UI/UX", "education tech"],
+  currentlyBuilding: "Eksperika — Virtual Science Lab",
+  motto:             "build, break, learn, repeat"
 };
 ```
 
-> `// build carefully, break curiously, learn continuously`
+> A student dev from Bali who finds beauty in clean interfaces and builds things
+> that make learning feel less like a lecture. Currently exploring the intersection
+> of frontend craft and education technology.
 
-## `$ open ./projects`
+---
 
-| Directory | What lives here | Progress |
-| --- | --- | --- |
-| [`eksperika/`](https://github.com/nomarrie/Eksperika) | A virtual science lab designed for interactive learning. | `building` |
-| [`echo-aware/`](https://github.com/nomarrie/EchoAware) | An educational app about echo chambers and digital literacy. | `researching` |
-| [`portfolio/`](https://github.com/nomarrie?tab=repositories) | UI studies, frontend experiments, and creative web projects. | `evolving` |
+## `$ current_focus`
 
-## `$ inspect ./toolkit`
+```
+▸ Mastering Java OOP fundamentals
+▸ Building responsive, accessible UIs
+▸ Designing interactive web simulations
+▸ Crafting consistent UI/UX systems
+▸ Levelling up Git workflow & version control
+```
+
+---
+
+## `$ tech_stack`
 
 <div align="center">
 
@@ -51,28 +60,84 @@ const workspace = {
 
 </div>
 
-## `$ tail -f ./learning.log`
+| Layer | Tools |
+|-------|-------|
+| **Frontend** | HTML · CSS · JavaScript |
+| **Language** | Java |
+| **Workflow** | Git · GitHub · VS Code |
+| **Learning** | Responsive Design · UI/UX · Web Simulation |
 
-```diff
-+ Java OOP
-+ Responsive web design
-+ Git workflow
-+ Interactive simulation
-+ UI/UX consistency
+---
+
+## `$ featured_projects`
+
+### 🔬 [Eksperika](https://github.com/nomarrie)
+> *Virtual Science Lab — Interactive Learning Platform*
+
+A browser-based virtual laboratory designed to make science experiments accessible and engaging for students. Built with a focus on interactivity, simulation accuracy, and clean UI.
+
+```
+status  ──▸  🟡 active development
+stack   ──▸  HTML · CSS · JavaScript
+type    ──▸  Education Technology
 ```
 
-## `$ render ./github-metrics`
+---
+
+### 📡 [EchoAware](https://github.com/nomarrie)
+> *Digital Literacy & Echo Chamber Education App*
+
+An educational web app that helps users understand how echo chambers form online and develop critical digital literacy skills through interactive modules.
+
+```
+status  ──▸  🟢 in progress
+stack   ──▸  HTML · CSS · JavaScript
+type    ──▸  Awareness · EdTech
+```
+
+---
+
+### 🎨 [Web Portfolio](https://github.com/nomarrie)
+> *UI Experiment Lab & Personal Space*
+
+A personal corner for frontend experiments, design explorations, and creative coding. Where ideas get tested before they grow into real projects.
+
+```
+status  ──▸  🔵 ongoing
+stack   ──▸  HTML · CSS · JavaScript
+type    ──▸  UI/UX · Creative Dev
+```
+
+---
+
+## `$ github_stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787" alt="Nomarrie's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Nomarrie's top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" />
 
-<br />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=nomarrie&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=7EE787" alt="Nomarrie's GitHub streak" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nomarrie&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00b4d8&ring=7c3aed&fire=ff6b6b&currStreakLabel=00b4d8" />
 
 </div>
 
 ---
 
+## `$ connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nomarrie-0d1117?style=for-the-badge&logo=github&logoColor=white&color=161b22)](https://github.com/nomarrie)
+
+</div>
+
+---
+
+<div align="center">
+
+*`// the best way to learn is to build something real`*
+
+</div>
