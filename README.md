@@ -196,5 +196,5 @@
 <img
   src="./assets/head.gif"
   alt="Forest-green landscape footer"
-  width="100%"
+  width="80%"
 />
