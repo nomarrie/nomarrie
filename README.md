@@ -168,14 +168,14 @@
     <td width="50%" valign="top">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&hide_border=true&bg_color=0D1F17&title_color=8FD6A8&text_color=DFF7E8&icon_color=64DFA1&ring_color=5F9E72"
+        src="https://github-stats-extended.vercel.app/api?username=nomarrie&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1F17&amp;title_color=8FD6A8&amp;text_color=DFF7E8&amp;icon_color=64DFA1&amp;ring_color=5F9E72"
         alt="Raditya's GitHub statistics"
       />
     </td>
     <td width="50%" valign="top">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&langs_count=8&hide_border=true&bg_color=0D1F17&title_color=8FD6A8&text_color=DFF7E8"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=nomarrie&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1F17&amp;title_color=8FD6A8&amp;text_color=DFF7E8"
         alt="Raditya's most used GitHub languages"
       />
     </td>
