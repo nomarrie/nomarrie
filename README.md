@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="./assets/head.gif"
+    src="./assets/foot.gif"
     alt="Animated forest-green pixel-art banner for Raditya's GitHub profile"
     width="100%"
   />
@@ -194,7 +194,7 @@
 </p>
 
 <img
-  src="./assets/foot.gif"
+  src="./assets/head.gif"
   alt="Forest-green landscape footer"
   width="100%"
 />
