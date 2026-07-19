@@ -1,6 +1,6 @@
 <!--
   Asset note:
-  - assets/header.gif is a blue animated placeholder generated for this package.
+  - assets/header.gif is a forest-green animated placeholder generated for this package.
     Replace it with the selected Pokémon GIF while keeping the same filename.
   - assets/achievement.gif is a personalized pixel-art placeholder.
     Replace it with the selected Adventure Time GIF while keeping the same filename.
@@ -8,19 +8,19 @@
 
 <div align="center">
   <img
-    src="./assets/header.gif"
-    alt="Animated blue pixel-art banner for Raditya's GitHub profile"
+    src="./assets/head.gif"
+    alt="Animated forest-green pixel-art banner for Raditya's GitHub profile"
     width="100%"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=46&text=Welcome%20to%20My%20Digital%20Space&fontSize=31&fontColor=8ECAE6&fontAlignY=68&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=46&text=Welcome%20to%20My%20Digital%20Space&fontSize=31&fontColor=8FD6A8&fontAlignY=68&animation=fadeIn"
     alt="Welcome to My Digital Space"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=5FA8D3&height=1&section=header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=5F9E72&height=1&section=header"
     width="100%"
     alt=""
   />
@@ -47,19 +47,19 @@
 <p align="center">
   <a href="https://www.instagram.com/mdraditya_/">
     <img
-      src="https://img.shields.io/badge/Instagram-@mdraditya__-5FA8D3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1D4E6D"
+      src="https://img.shields.io/badge/Instagram-@mdraditya__-5F9E72?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1F4D3A"
       alt="Follow Raditya on Instagram"
     />
   </a>
   <a href="https://github.com/nomarrie">
     <img
-      src="https://img.shields.io/badge/GitHub-nomarrie-8ECAE6?style=for-the-badge&logo=github&logoColor=white&labelColor=1D4E6D"
+      src="https://img.shields.io/badge/GitHub-nomarrie-8FD6A8?style=for-the-badge&logo=github&logoColor=white&labelColor=1F4D3A"
       alt="Visit Raditya's GitHub profile"
     />
   </a>
   <a href="mailto:mdraditya25@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact-64DFDF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D4E6D"
+      src="https://img.shields.io/badge/Email-Contact-64DFA1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F4D3A"
       alt="Email Raditya"
     />
   </a>
@@ -67,11 +67,11 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=nomarrie&style=for-the-badge&color=5FA8D3&label=Profile+Views"
+    src="https://komarev.com/ghpvc/?username=nomarrie&style=for-the-badge&color=5F9E72&label=Profile+Views"
     alt="Raditya's GitHub profile views"
   />
   <img
-    src="https://img.shields.io/github/followers/nomarrie?style=for-the-badge&color=8ECAE6&labelColor=1D4E6D&label=Followers"
+    src="https://img.shields.io/github/followers/nomarrie?style=for-the-badge&color=8FD6A8&labelColor=1F4D3A&label=Followers"
     alt="Raditya's GitHub followers"
   />
 </p>
@@ -147,18 +147,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1D4E6D?style=for-the-badge&logo=html5&logoColor=DCEFF7" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-245F83?style=for-the-badge&logo=css3&logoColor=DCEFF7" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-5FA8D3?style=for-the-badge&logo=javascript&logoColor=0D1B2A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-1D4E6D?style=for-the-badge&logo=bootstrap&logoColor=DCEFF7" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=64DFDF" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-245F83?style=for-the-badge&logo=vite&logoColor=DCEFF7" alt="Vite" />
-  <img src="https://img.shields.io/badge/C++-1D4E6D?style=for-the-badge&logo=cplusplus&logoColor=DCEFF7" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-5FA8D3?style=for-the-badge&logo=openjdk&logoColor=0D1B2A" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-245F83?style=for-the-badge&logo=git&logoColor=DCEFF7" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=8ECAE6" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-1D4E6D?style=for-the-badge&logo=figma&logoColor=DCEFF7" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-5FA8D3?style=for-the-badge&logo=linux&logoColor=0D1B2A" alt="Linux" />
+  <img src="https://img.shields.io/badge/HTML5-1F4D3A?style=for-the-badge&logo=html5&logoColor=DFF7E8" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-32694D?style=for-the-badge&logo=css3&logoColor=DFF7E8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-5F9E72?style=for-the-badge&logo=javascript&logoColor=0D1F17" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-1F4D3A?style=for-the-badge&logo=bootstrap&logoColor=DFF7E8" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-0D1F17?style=for-the-badge&logo=react&logoColor=64DFA1" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-32694D?style=for-the-badge&logo=vite&logoColor=DFF7E8" alt="Vite" />
+  <img src="https://img.shields.io/badge/C++-1F4D3A?style=for-the-badge&logo=cplusplus&logoColor=DFF7E8" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-5F9E72?style=for-the-badge&logo=openjdk&logoColor=0D1F17" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-32694D?style=for-the-badge&logo=git&logoColor=DFF7E8" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1F17?style=for-the-badge&logo=github&logoColor=8FD6A8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-1F4D3A?style=for-the-badge&logo=figma&logoColor=DFF7E8" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-5F9E72?style=for-the-badge&logo=linux&logoColor=0D1F17" alt="Linux" />
 </p>
 
 <h2>🌌 GitHub Activity</h2>
@@ -168,14 +168,14 @@
     <td width="50%" valign="top">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=8ECAE6&text_color=DCEFF7&icon_color=64DFDF&ring_color=5FA8D3"
+        src="https://github-readme-stats.vercel.app/api?username=nomarrie&show_icons=true&hide_border=true&bg_color=0D1F17&title_color=8FD6A8&text_color=DFF7E8&icon_color=64DFA1&ring_color=5F9E72"
         alt="Raditya's GitHub statistics"
       />
     </td>
     <td width="50%" valign="top">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&langs_count=8&hide_border=true&bg_color=0D1B2A&title_color=8ECAE6&text_color=DCEFF7"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomarrie&layout=compact&langs_count=8&hide_border=true&bg_color=0D1F17&title_color=8FD6A8&text_color=DFF7E8"
         alt="Raditya's most used GitHub languages"
       />
     </td>
@@ -184,7 +184,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=nomarrie&hide_border=true&background=0D1B2A&ring=5FA8D3&fire=64DFDF&currStreakLabel=8ECAE6&sideNums=DCEFF7&currStreakNum=64DFDF&dates=8ECAE6&sideLabels=DCEFF7"
+    src="https://streak-stats.demolab.com?user=nomarrie&hide_border=true&background=0D1F17&ring=5F9E72&fire=64DFA1&currStreakLabel=8FD6A8&sideNums=DFF7E8&currStreakNum=64DFA1&dates=8FD6A8&sideLabels=DFF7E8"
     alt="Raditya's GitHub contribution streak"
   />
 </p>
@@ -194,7 +194,7 @@
 </p>
 
 <img
-  src="./assets/footer.png"
-  alt="Blue and green landscape footer"
+  src="./assets/foot.gif"
+  alt="Forest-green landscape footer"
   width="100%"
 />
