@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="./assets/head.gif"
+    src="./assets/header.gif"
     alt="Animated blue pixel-art banner for Raditya's GitHub profile"
     width="100%"
   />
@@ -76,43 +76,32 @@
   />
 </p>
 
-<table width="100%">
-<tr>
-<td width="68%" valign="top">
-<h3>🌊 About Me</h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5FA8D3&amp;height=2&amp;section=header" width="180" alt="">
-<ul>
-<li>🎓 Software Engineering student at <strong>SMK Negeri 1 Denpasar</strong></li>
-<li>💻 Independent developer who enjoys building projects from idea to implementation</li>
-<li>🌱 Currently improving my web and application development skills</li>
-<li>🧠 Interested in AI agents, automation, IoT, frameworks, and operating systems</li>
-<li>🛠️ I enjoy turning ideas into practical and maintainable digital products</li>
-<li>📚 Constantly learning through projects, experiments, and technical documentation</li>
-<li>🤝 Interested in creating technology that can help people around me</li>
-</ul>
-<h3>🏆 Achievements</h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5FA8D3&amp;height=2&amp;section=header" width="180" alt="">
-<ul>
-<li>🥈 <strong>2nd Place</strong> — City-Level LKS Web Technologies, 2026</li>
-<li>🏅 <strong>Juara Harapan I</strong> — LCC Computer, 2024</li>
-<li>🏅 <strong>Juara Harapan I</strong> — LCC Computer, 2025</li>
-</ul>
-<h3>🔭 Areas of Interest</h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5FA8D3&amp;height=2&amp;section=header" width="180" alt="">
-<ul>
-<li>🤖 Artificial Intelligence, AI systems, and AI agents</li>
-<li>⚙️ Automation and efficient digital workflows</li>
-<li>🌐 Web technologies, responsive interfaces, and accessibility</li>
-<li>🐧 Operating systems, Linux, terminal tools, and computer fundamentals</li>
-<li>🔌 Internet of Things and connected devices</li>
-<li>🧩 Modern frameworks, development tools, and software architecture</li>
-</ul>
-</td>
-<td width="32%" valign="top" align="center">
-<img src="./assets/achievement.gif" alt="Adventure Time pixel art beside Raditya's profile information" width="260">
-</td>
-</tr>
-</table>
+<h2>🌊 About Me</h2>
+
+- 🎓 Software Engineering student at **SMK Negeri 1 Denpasar**
+- 💻 Independent developer who enjoys building projects from idea to implementation
+- 🌱 Currently improving my web and application development skills
+- 🧠 Interested in AI agents, automation, IoT, frameworks, and operating systems
+- 🛠️ I enjoy turning ideas into practical and maintainable digital products
+- 📚 Constantly learning through projects, experiments, and technical documentation
+- 🤝 Interested in creating technology that can help people around me
+
+<h2>🏆 Achievements</h2>
+
+- 🥈 **2nd Place** — City-Level LKS Web Technologies, 2026
+- 🏅 **Juara Harapan I** — LCC Computer, 2024
+- 🏅 **Juara Harapan I** — LCC Computer, 2025
+
+<h2>🔭 Areas of Interest</h2>
+
+- 🤖 Artificial Intelligence, AI systems, and AI agents
+- ⚙️ Automation and efficient digital workflows
+- 🌐 Web technologies, responsive interfaces, and accessibility
+- 🐧 Operating systems, Linux, terminal tools, and computer fundamentals
+- 🔌 Internet of Things and connected devices
+- 🧩 Modern frameworks, development tools, and software architecture
+
+<br clear="right" />
 
 <h2>🚀 Featured Projects</h2>
 
@@ -205,7 +194,7 @@
 </p>
 
 <img
-  src="./assets/foot.gif"
+  src="./assets/footer.png"
   alt="Blue and green landscape footer"
   width="100%"
 />
