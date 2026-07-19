@@ -165,7 +165,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <img
         width="100%"
         src="https://github-stats-extended.vercel.app/api?username=nomarrie&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1F17&amp;title_color=8FD6A8&amp;text_color=DFF7E8&amp;icon_color=64DFA1&amp;ring_color=5F9E72"
