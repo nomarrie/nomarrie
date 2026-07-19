@@ -193,8 +193,10 @@
   <em>Learning one project, one experiment, and one challenge at a time.</em>
 </p>
 
-<img
-  src="./assets/head.gif"
-  alt="Forest-green landscape footer"
-  width="80%"
-/>
+<div align="center">
+  <img
+    src="./assets/head.gif"
+    alt="Forest-green landscape footer"
+    width="80%"
+  />
+</div>
