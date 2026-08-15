@@ -1,16 +1,8 @@
-<!--
-  Asset note:
-  - assets/header.gif is a forest-green animated placeholder generated for this package.
-    Replace it with the selected Pokémon GIF while keeping the same filename.
-  - assets/achievement.gif is a personalized pixel-art placeholder.
-    Replace it with the selected Adventure Time GIF while keeping the same filename.
--->
-
 <div align="center">
   <img
     src="./assets/foot.gif"
     alt="Animated forest-green pixel-art banner for Raditya's GitHub profile"
-    width="80%"
+    width="75%"
   />
 </div>
 
