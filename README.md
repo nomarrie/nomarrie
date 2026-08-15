@@ -70,28 +70,28 @@
 
 <h2>🌱 Roots & Growth</h2>
 
-- 🌿 Software Engineering student at **SMK Negeri 1 Denpasar**
-- 🍃 Independent developer who enjoys building projects from idea to implementation
-- 🌱 Currently improving my web and application development skills
-- 🌲 Interested in AI agents, automation, IoT, frameworks, and operating systems
-- 🪴 I enjoy turning ideas into practical and maintainable digital products
-- 📗 Constantly learning through projects, experiments, and technical documentation
-- 💚 Interested in creating technology that can help people around me
+- Software Engineering student at **SMK Negeri 1 Denpasar**
+- Independent developer who enjoys building projects from idea to implementation
+- Currently improving my web and application development skills
+- Interested in AI agents, automation, IoT, frameworks, and operating systems
+- I enjoy turning ideas into practical and maintainable digital products
+- Constantly learning through projects, experiments, and technical documentation
+- Interested in creating technology that can help people around me
 
 <h2>🌿 Milestones Along the Way</h2>
 
-- 🌱 **2nd Place** · City-Level LKS Web Technologies, 2026
-- 🍃 **Juara Harapan I** · LCC Computer, 2024
-- 🍃 **Juara Harapan I** · LCC Computer, 2025
+- **2nd Place** · City-Level LKS Web Technologies, 2026
+- **Juara Harapan I** · LCC Computer, 2024
+- **Juara Harapan I** · LCC Computer, 2025
 
 <h2>🌲 Branches I'm Exploring</h2>
 
-- 🌿 Artificial Intelligence, AI systems, and AI agents
-- 🌱 Automation and efficient digital workflows
-- 🍃 Web technologies, responsive interfaces, and accessibility
-- 🌲 Operating systems, Linux, terminal tools, and computer fundamentals
-- 🪴 Internet of Things and connected devices
-- 💚 Modern frameworks, development tools, and software architecture
+- Artificial Intelligence, AI systems, and AI agents
+- Automation and efficient digital workflows
+- Web technologies, responsive interfaces, and accessibility
+- Operating systems, Linux, terminal tools, and computer fundamentals
+- Internet of Things and connected devices
+- Modern frameworks, development tools, and software architecture
 
 <br clear="right" />
 
