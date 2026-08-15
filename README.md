@@ -2,7 +2,7 @@
   <img
     src="./assets/foot.gif"
     alt="Animated forest-green pixel-art banner for Raditya's GitHub profile"
-    width="75%"
+    width="60%"
   />
 </div>
 
