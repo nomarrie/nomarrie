@@ -16,8 +16,8 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=46&text=Welcome%20to%20My%20Digital%20Space&fontSize=31&fontColor=8FD6A8&fontAlignY=68&animation=fadeIn"
-    alt="Welcome to My Digital Space"
+    src="https://capsule-render.vercel.app/api?type=transparent&height=46&text=Growing%20Ideas%20Into%20Digital%20Experiences&fontSize=31&fontColor=8FD6A8&fontAlignY=68&animation=fadeIn"
+    alt="Growing Ideas Into Digital Experiences"
   />
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=5F9E72&height=1&section=header"
@@ -26,7 +26,7 @@
   />
 </div>
 
-<h1 align="center">Hi, I'm Raditya 👋</h1>
+<h1 align="center">Hi, I'm Raditya 🌿</h1>
 
 <p align="center">
   <strong>Software Engineering Student · Independent Developer · Technology Explorer</strong>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  I am always curious about new technologies—especially artificial intelligence,
+  I am always curious about new technologies, especially artificial intelligence,
   automation, operating systems, web technologies, IoT, and modern development tools.
   I keep learning through projects, experiments, documentation, and collaboration.
 </p>
@@ -76,39 +76,39 @@
   />
 </p>
 
-<h2>🌊 About Me</h2>
+<h2>🌱 Roots & Growth</h2>
 
-- 🎓 Software Engineering student at **SMK Negeri 1 Denpasar**
-- 💻 Independent developer who enjoys building projects from idea to implementation
+- 🌿 Software Engineering student at **SMK Negeri 1 Denpasar**
+- 🍃 Independent developer who enjoys building projects from idea to implementation
 - 🌱 Currently improving my web and application development skills
-- 🧠 Interested in AI agents, automation, IoT, frameworks, and operating systems
-- 🛠️ I enjoy turning ideas into practical and maintainable digital products
-- 📚 Constantly learning through projects, experiments, and technical documentation
-- 🤝 Interested in creating technology that can help people around me
+- 🌲 Interested in AI agents, automation, IoT, frameworks, and operating systems
+- 🪴 I enjoy turning ideas into practical and maintainable digital products
+- 📗 Constantly learning through projects, experiments, and technical documentation
+- 💚 Interested in creating technology that can help people around me
 
-<h2>🏆 Achievements</h2>
+<h2>🌿 Milestones Along the Way</h2>
 
-- 🥈 **2nd Place** — City-Level LKS Web Technologies, 2026
-- 🏅 **Juara Harapan I** — LCC Computer, 2024
-- 🏅 **Juara Harapan I** — LCC Computer, 2025
+- 🌱 **2nd Place** | City-Level LKS Web Technologies, 2026
+- 🍃 **Juara Harapan I** | LCC Computer, 2024
+- 🍃 **Juara Harapan I** | LCC Computer, 2025
 
-<h2>🔭 Areas of Interest</h2>
+<h2>🌲 Branches I'm Exploring</h2>
 
-- 🤖 Artificial Intelligence, AI systems, and AI agents
-- ⚙️ Automation and efficient digital workflows
-- 🌐 Web technologies, responsive interfaces, and accessibility
-- 🐧 Operating systems, Linux, terminal tools, and computer fundamentals
-- 🔌 Internet of Things and connected devices
-- 🧩 Modern frameworks, development tools, and software architecture
+- 🌿 Artificial Intelligence, AI systems, and AI agents
+- 🌱 Automation and efficient digital workflows
+- 🍃 Web technologies, responsive interfaces, and accessibility
+- 🌲 Operating systems, Linux, terminal tools, and computer fundamentals
+- 🪴 Internet of Things and connected devices
+- 💚 Modern frameworks, development tools, and software architecture
 
 <br clear="right" />
 
-<h2>🚀 Featured Projects</h2>
+<h2>🌱 Projects I've Grown</h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🥗 NutLens</h3>
+      <h3>🌿 NutLens</h3>
       <p>
         An AI-assisted nutrition education website that helps users understand
         food and discover healthier alternatives.
@@ -118,7 +118,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>🧪 Eksperika</h3>
+      <h3>🌱 Eksperika</h3>
       <p>
         An interactive virtual laboratory that makes Physics, Chemistry,
         and Biology experiments more accessible through the web.
@@ -128,7 +128,7 @@
       </a>
     </td>
     <td width="33%" valign="top">
-      <h3>📚 Tasku AI</h3>
+      <h3>🍃 Tasku AI</h3>
       <p>
         An intelligent task and study planner for managing deadlines,
         learning plans, progress, and focused study sessions.
@@ -140,7 +140,7 @@
   </tr>
 </table>
 
-<h2>🧰 Tech Stack</h2>
+<h2>🪴 Tools in My Garden</h2>
 
 <p>
   These are some of the technologies and tools I use or am currently learning:
@@ -161,7 +161,7 @@
   <img src="https://img.shields.io/badge/Linux-5F9E72?style=for-the-badge&logo=linux&logoColor=0D1F17" alt="Linux" />
 </p>
 
-<h2>🌌 GitHub Activity</h2>
+<h2>🍃 Growth in Motion</h2>
 
 <table align="center">
   <tr>
@@ -190,7 +190,7 @@
 </p>
 
 <p align="center">
-  <em>Learning one project, one experiment, and one challenge at a time.</em>
+  <em>Growing through one project, one experiment, and one challenge at a time. 🌱</em>
 </p>
 
 <div align="center">
