@@ -80,9 +80,9 @@
 
 <h2>🌿 Milestones Along the Way</h2>
 
-- 🌱 **2nd Place** | City-Level LKS Web Technologies, 2026
-- 🍃 **Juara Harapan I** | LCC Computer, 2024
-- 🍃 **Juara Harapan I** | LCC Computer, 2025
+- 🌱 **2nd Place** - City-Level LKS Web Technologies, 2026
+- 🍃 **Juara Harapan I** - LCC Computer, 2024
+- 🍃 **Juara Harapan I** - LCC Computer, 2025
 
 <h2>🌲 Branches I'm Exploring</h2>
 
